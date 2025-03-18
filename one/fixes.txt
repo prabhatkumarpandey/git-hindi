@@ -1,2 +1,3 @@
 a fix file which is use to fix bugsgie
 hello dear
+another fix message for purple mode
